@@ -12,6 +12,7 @@ Key Features:
     7.Executive-Level Business Insights.
     
 Dashboard Visualizations:
+DASHBOARD LINK:https://github.com/06akshita/Superstore-Sales-Profit-Analytics-Tableau-project01/blob/main/Superstore%20Business%20Performance%20Dashboard.png
     1.Profit by Region & Customer Segment – Compare profits across regions and customer categories.
     2.Sales Contribution by Region – Understand regional revenue distribution using percentage contribution analysis.
     3.Profit vs Sales Scatter Plot – Identify sales-profit relationships and outlier transactions.
